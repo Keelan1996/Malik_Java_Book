@@ -1,0 +1,1 @@
+ ## This Malik Java book is what we had to study Java with. Each week were told to study a different chapter within the book. Every couple weeks we were quized with an MCQ of our knowledge. These were graded and contributed to our grade in the Software Design & Program Development 1 Module.
